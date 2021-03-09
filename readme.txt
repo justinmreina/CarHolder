@@ -4,5 +4,9 @@
 @date 		3/8/21
 
 @section 	Notes
-	x
+	Drop Z 0.6"
+	Forwrd 0.8"
+	In 0.5"
+	Rotate +15
+	Post movement increasted
 
